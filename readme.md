@@ -392,6 +392,8 @@ NASA provides a number of public APIs including the APOD which returns the Astro
 
 ![NASA APOD](assets/nasa_apod.png)
 
+Image source: NASA, https://apod.nasa.gov/apod/
+
 
 
 Once complete, push your finished lab to your GitHub Classroom Repo for Lab 2.
