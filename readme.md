@@ -1,4 +1,4 @@
-# Lab 2: Dynamic Content
+# Lab 3: Dynamic Content
 
 
 
@@ -10,7 +10,7 @@ In this lab you will build a server-side web application which genersates psages
 
 1. Configure the Python Virtual Environment
 
-   `python -m venv venv --prompt="lab2"`
+   `python -m venv venv --prompt="lab3"`
 
 2. Activate the Virtual Environment
 
@@ -396,7 +396,7 @@ Image source: NASA, https://apod.nasa.gov/apod/
 
 
 
-Once complete, push your finished lab to your GitHub Classroom Repo for Lab 2.
+Once complete, push your finished lab to your GitHub Classroom Repo for Lab 3.
 
 
 
